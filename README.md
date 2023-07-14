@@ -1,1 +1,1 @@
-New MLFLOW_KEEP_RUN_ACTIVE flag for enhanced MLflow run management (#8808)
+ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
