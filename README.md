@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+Add PR Summary step to Ultralytics Actions (#7675)
